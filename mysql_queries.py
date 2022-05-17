@@ -1,0 +1,1 @@
+REGISTER_QRY="insert into userdata values (%s,%s,%s,%s)"
